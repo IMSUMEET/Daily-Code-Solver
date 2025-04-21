@@ -1,0 +1,11 @@
+# node
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Vite cache
+client/dist/
+client/.vite
+
+# Environment
+*.env
